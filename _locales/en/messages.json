@@ -1,0 +1,9 @@
+{
+	"extensionName": {
+		"message": "Visual Email Analyzer"
+	},
+
+	"extensionDescription": {
+		"message": "A way to visualize where emails are originating from."
+	}
+}
