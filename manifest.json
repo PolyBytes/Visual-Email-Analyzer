@@ -19,7 +19,7 @@
 		]
 	},
 	"permissions": [
-		
+		"accountsRead"
 	],
 	"default_locale": "en"
 }
