@@ -2,3 +2,7 @@ body {
 	background-color: #333355;
 	color: #ffffff;
 }
+
+#folder-selection-panel {
+	display: none;
+}
