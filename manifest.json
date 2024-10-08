@@ -19,7 +19,8 @@
 		]
 	},
 	"permissions": [
-		"accountsRead"
+		"accountsRead",
+		"messagesRead"
 	],
 	"default_locale": "en"
 }
