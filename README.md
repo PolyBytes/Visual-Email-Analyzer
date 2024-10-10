@@ -15,4 +15,7 @@ Making use of the amazing [Chart.js](https://www.chartjs.org/) and [Patternomaly
 - [ ] User Interface
   - [ ] Easy to use and visually appealing
   - [ ] Implement Chart.js data graphing
+
+- [ ] Accessibility
   - [ ] Implement Patternomaly color-blindness accessibility settings
+  - [ ] Provide additional language translation options
